@@ -1,0 +1,2 @@
+{"id":1,"name":"Produto","price":223}
+{"id":2,"name":"Bola","price":20}
